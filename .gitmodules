@@ -1,0 +1,18 @@
+[submodule "ruuvi.drivers.c"]
+	path = ruuvi.drivers.c
+	url = https://github.com/ruuvi/ruuvi.drivers.c.git
+[submodule "ruuvi.libraries.c"]
+	path = ruuvi.libraries.c
+	url = https://github.com/ruuvi/ruuvi.libraries.c.git
+[submodule "ruuvi.boards.c"]
+	path = ruuvi.boards.c
+	url = https://github.com/ruuvi/ruuvi.boards.c.git
+[submodule "ruuvi.endpoints.c"]
+	path = ruuvi.endpoints.c
+	url = https://github.com/ruuvi/ruuvi.endpoints.c.git
+[submodule "ojousima.ruuvi_targets.c"]
+	path = ojousima.ruuvi_targets.c
+	url = https://github.com/ojousima/ojousima.ruuvi_targets.c.git
+[submodule "ojousima.ruuvi_tasks.c"]
+	path = ojousima.ruuvi_tasks.c
+	url = https://github.com/ojousima/ojousima.ruuvi_tasks.c.git
