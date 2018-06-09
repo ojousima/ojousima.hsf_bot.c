@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# OS, editor files
+.DS_Store
+
+#Build files
+*.zip
+*.out
+*.map
+_build/*
+_build
